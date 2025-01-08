@@ -1,0 +1,9 @@
+{
+  "domain": "bmas",
+  "name": "Black Mesa Announcement System TTS",
+  "version": "1.0.0",
+  "documentation": "https://www.example.com",
+  "dependencies": [],
+  "codeowners": ["@your_github_username"],
+  "requirements": ["pydub==0.25.1"]
+}
